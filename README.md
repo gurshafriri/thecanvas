@@ -1,5 +1,11 @@
 # The Canvas
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/62c56bcc-6a7b-4a54-a67a-83cf1e2487fa"
+       alt="the canvas"
+       width="60%" />
+</p>
+
 **The Canvas** is a real-time, collaborative musical interface where sound meets visualization. It allows multiple users to jump into a shared infinite canvas, place notes, and create music together in the browser.
 
 *The canvas is live on https://canvas.gurworks.com*
