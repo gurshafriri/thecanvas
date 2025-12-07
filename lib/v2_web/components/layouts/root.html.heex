@@ -30,6 +30,10 @@
         window.addEventListener("phx:set-theme", (e) => setTheme(e.target.dataset.phxTheme));
       })();
     </script>
+    <!-- Cloudflare Web Analytics -->
+    <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "47bfdb1173f64205b0440d112c3b2814"}'>
+    </script>
+    <!-- End Cloudflare Web Analytics -->
   </head>
   <body>
     {@inner_content}
